@@ -35,13 +35,9 @@ public class Fruta implements Resource, Fruit {
         return Valor;
     }
 
-    @Override
-    public void SetValor(Integer Valor) {
-
-    }
 
     @Override
-    public void SetValor(int Valor) {
+    public void SetValor(java.lang.Integer Valor) {
 
     }
 

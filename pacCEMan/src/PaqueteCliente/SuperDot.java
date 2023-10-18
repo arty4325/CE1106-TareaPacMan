@@ -25,5 +25,6 @@ public class SuperDot implements Resource, Super_Dot {
     public void SetValor(java.lang.Integer Valor) {
         this.Valor = Valor;
     }
+
 }
 

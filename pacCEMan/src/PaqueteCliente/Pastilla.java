@@ -12,6 +12,8 @@ public class Pastilla implements Resource, Pill {
         // Implementa la lógica para establecer el valor de la pastilla
         // Puedes almacenar el valor en algún atributo de la clase Pastilla
     }
+    
+
 
     // Método específico de la clase Pastilla
     public void TriggerEvento() {
